@@ -6,3 +6,5 @@ Korrastatud_andmestik.xlsx - Korrastatud näidisandmete fail, kus välja on jäe
 Vastused.xlsx - Püstitatud küsimuste vastused (iga andmefailis toodud inimese kohta tema raviteenustele kulunud summat, keskmist raviarve kestvust ning kolme kulukaimat raviarvet ning nendes sisalduvate raviteenuste nimed).
 
 TU_GI_prooviul_Meelis_Utt.R - R kood, millega ülesande lahendasin.
+
+Ülesandele kulus aega kokku: 7 tundi 19 minutit.
